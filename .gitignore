@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Test and coverage artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Streamlit local configuration and secrets
+.streamlit/secrets.toml
+
+# Environment variables and local secrets
+.env
+.env.*
+!.env.example
+
+# Editor / OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Generated audit exports
+audit_scope_data_report.json
+audit_scope_data_report.md
