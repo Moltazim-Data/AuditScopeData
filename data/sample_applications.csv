@@ -1,0 +1,21 @@
+application_id,group,age_band,income_band,approved,missing_documents
+A001,Group A,25-34,medium,1,0
+A002,Group A,35-44,high,1,0
+A003,Group A,18-24,low,1,0
+A004,Group A,25-34,medium,1,0
+A005,Group A,45-54,high,1,0
+A006,Group A,35-44,medium,0,1
+A007,Group A,25-34,low,1,0
+A008,Group A,55+,high,1,0
+A009,Group B,18-24,low,0,1
+A010,Group B,25-34,medium,0,0
+A011,Group B,35-44,low,1,0
+A012,Group B,45-54,medium,0,1
+A013,Group B,25-34,low,0,0
+A014,Group B,35-44,medium,0,1
+A015,Group B,55+,high,1,0
+A016,Group B,18-24,low,0,1
+A017,Group B,25-34,medium,0,0
+A018,Group B,35-44,high,1,0
+A019,Group B,45-54,medium,0,1
+A020,Group B,25-34,low,0,0
