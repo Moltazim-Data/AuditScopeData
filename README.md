@@ -1,5 +1,8 @@
 # AuditScopeData
 
+**Live demo:** [Open AuditScopeData on Streamlit](https://moltazim-data-auditscopedata-app-oz8e44.streamlit.app/#audit-scope-data)
+
+
 **A lightweight data quality and group-outcome fairness auditing tool.**
 
 AuditScopeData is an open-source MVP for exploring tabular data quality and descriptive differences in binary outcomes across groups. It combines a Streamlit dashboard, reusable Python analysis functions, and downloadable audit reports.
